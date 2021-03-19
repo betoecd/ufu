@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 07 17:21:16 BRT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-04b9-a356-00000e5c7a10 
+on database directory /home/bits/Documents/UFU/bd2/JDBCTutorial/testdb with class loader sun.misc.Launcher$AppClassLoader@330bedb4 
+Loaded from file:/opt/Apache/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Red Hat, Inc
+java.runtime.version=1.8.0_265-b01
+user.dir=/home/bits/Documents/UFU/bd2/JDBCTutorial
+os.name=Linux
+os.arch=amd64
+os.version=5.8.12-100.fc31.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
